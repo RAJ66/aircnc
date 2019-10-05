@@ -1,9 +1,8 @@
 import React, { useState } from "react";
 
-// import { Container } from './styles';
 import api from "./../../services/api";
 
-export default function Login() {
+export default function Login({ history }) {
   const [email, setEmail] = useState("");
 
   async function handleSubmmit(event) {
@@ -13,6 +12,8 @@ export default function Login() {
 
     const { _id } = response.data;
     localStorage.setItem("user", _id);
+
+    history.push("/dashboard");
   }
 
   return (
