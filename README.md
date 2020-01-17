@@ -6,6 +6,7 @@
 </h4>
 
 <p>This project was made for study porpuses only.</p>
+<p>Rent offices to work and meet new companies and people</p>
 <p>#Rocketseat Week Omnistack 9.0</p>
 
 ## 💻Stack
