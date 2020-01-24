@@ -9,6 +9,22 @@
 <p>Rent offices to work and meet new companies and people</p>
 <p>#Rocketseat Week Omnistack 9.0</p>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RAJ66/aircnc">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RAJ66/aircnc">
+  
+  <a href="https://github.com/RRAJ66/aircnc/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RAJ66/aircnc">
+  </a>
+
+  <a href="https://github.com/RAJ66/aircnc/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/RAJ66/aircnc">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 ## 💻Stack
 
 - [Node.js](https://nodejs.org/en/)
