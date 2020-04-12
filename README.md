@@ -14,7 +14,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/RAJ66/aircnc">
   
-  <a href="https://github.com/RRAJ66/aircnc/commits/master">
+  <a href="https://github.com/RAJ66/aircnc/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RAJ66/aircnc">
   </a>
 
